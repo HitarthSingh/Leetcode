@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/HitarthSingh/Leetcode/tree/master/0260-single-number-iii) |
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/HitarthSingh/Leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
