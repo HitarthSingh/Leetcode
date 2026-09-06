@@ -1,19 +1,16 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        const size_t n = nums.size();
-        vector<int> arr;
-        for (int i = 0; i < n; i++) {
-            int count = 0;
-            for (int j = 0; j < n; j++) {
-                if (nums[i] == nums[j]) {
-                    count++;
-                }
-            }
-            if (count == 1) {
-                arr.push_back(nums[i]);
+        unordered_map<int, int> mp;
+        vector<int> ans;
+        for (int num : nums) {
+            mp[num]++;
+        }
+        for (auto it : mp) {
+            if (it.second == 1) {
+                ans.push_back(it.first);
             }
         }
-        return arr;
+        return ans;
     }
 };
