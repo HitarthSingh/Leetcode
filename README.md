@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/HitarthSingh/Leetcode/tree/master/0260-single-number-iii) |
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/HitarthSingh/Leetcode/tree/master/0704-binary-search) |
 | [0946-validate-stack-sequences](https://github.com/HitarthSingh/Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/HitarthSingh/Leetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
