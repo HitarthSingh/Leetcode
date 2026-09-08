@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/HitarthSingh/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2079-watering-plants](https://github.com/HitarthSingh/Leetcode/tree/master/2079-watering-plants) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/HitarthSingh/Leetcode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
