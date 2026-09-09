@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/HitarthSingh/Leetcode/tree/master/0260-single-number-iii) |
+| [0506-relative-ranks](https://github.com/HitarthSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/HitarthSingh/Leetcode/tree/master/0704-binary-search) |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/HitarthSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/HitarthSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Simulation
 |  |
