@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/HitarthSingh/Leetcode/tree/master/0704-binary-search) |
 | [0946-validate-stack-sequences](https://github.com/HitarthSingh/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2079-watering-plants](https://github.com/HitarthSingh/Leetcode/tree/master/2079-watering-plants) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/HitarthSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
