@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/HitarthSingh/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/HitarthSingh/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/HitarthSingh/Leetcode/tree/master/0704-binary-search) |
 | [0946-validate-stack-sequences](https://github.com/HitarthSingh/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2079-watering-plants](https://github.com/HitarthSingh/Leetcode/tree/master/2079-watering-plants) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
