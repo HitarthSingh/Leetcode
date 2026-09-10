@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/HitarthSingh/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3843-first-element-with-unique-frequency](https://github.com/HitarthSingh/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2079-watering-plants](https://github.com/HitarthSingh/Leetcode/tree/master/2079-watering-plants) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3843-first-element-with-unique-frequency](https://github.com/HitarthSingh/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3843-first-element-with-unique-frequency](https://github.com/HitarthSingh/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
