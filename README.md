@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2079-watering-plants](https://github.com/HitarthSingh/Leetcode/tree/master/2079-watering-plants) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3843-first-element-with-unique-frequency](https://github.com/HitarthSingh/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3843-first-element-with-unique-frequency](https://github.com/HitarthSingh/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Prefix Sum
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3870-count-commas-in-range](https://github.com/HitarthSingh/Leetcode/tree/master/3870-count-commas-in-range) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
