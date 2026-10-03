@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2079-watering-plants](https://github.com/HitarthSingh/Leetcode/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HitarthSingh/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3843-first-element-with-unique-frequency](https://github.com/HitarthSingh/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HitarthSingh/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HitarthSingh/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/HitarthSingh/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2079-watering-plants](https://github.com/HitarthSingh/Leetcode/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HitarthSingh/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/HitarthSingh/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HitarthSingh/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HitarthSingh/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
