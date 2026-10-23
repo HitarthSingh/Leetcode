@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0506-relative-ranks](https://github.com/HitarthSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/HitarthSingh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/HitarthSingh/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HitarthSingh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/HitarthSingh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/HitarthSingh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HitarthSingh/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
