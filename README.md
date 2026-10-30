@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/HitarthSingh/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HitarthSingh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0867-transpose-matrix](https://github.com/HitarthSingh/Leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/HitarthSingh/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HitarthSingh/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/HitarthSingh/Leetcode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/HitarthSingh/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2079-watering-plants](https://github.com/HitarthSingh/Leetcode/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HitarthSingh/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/HitarthSingh/Leetcode/tree/master/0867-transpose-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
 |  |
