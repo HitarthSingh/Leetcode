@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/HitarthSingh/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HitarthSingh/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/HitarthSingh/Leetcode/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/HitarthSingh/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3731-find-missing-elements](https://github.com/HitarthSingh/Leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HitarthSingh/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3843-first-element-with-unique-frequency](https://github.com/HitarthSingh/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Prefix Sum
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HitarthSingh/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/HitarthSingh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
