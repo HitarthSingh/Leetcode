@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/HitarthSingh/Leetcode/tree/master/0260-single-number-iii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthSingh/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/HitarthSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/HitarthSingh/Leetcode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/HitarthSingh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthSingh/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/HitarthSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HitarthSingh/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HitarthSingh/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3870-count-commas-in-range](https://github.com/HitarthSingh/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
