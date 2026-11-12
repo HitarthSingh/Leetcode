@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/HitarthSingh/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HitarthSingh/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HitarthSingh/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HitarthSingh/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HitarthSingh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HitarthSingh/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/HitarthSingh/Leetcode/tree/master/3731-find-missing-elements) |
